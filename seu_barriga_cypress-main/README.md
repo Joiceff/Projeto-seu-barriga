@@ -14,7 +14,7 @@ Certifique-se de ter o Node.js instalado em sua máquina. O Cypress será instal
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/gabieesf/seu_barriga_cypress.git
+git clone https://github.com/joiceff/Projeto_Seu_Barriga
 ```
 2. Instale as dependependencias do projeto:
 ```bash
